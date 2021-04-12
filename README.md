@@ -5,7 +5,7 @@ with partial pivoting on it (A = P'LU). It prints out P', L, and U to the consol
 it is finished.
 
 ## Input File Format
-The program gets the matrix from an input file (input.txt) in this order, first line
+The program gets the matrix from an input file (input.txt) in this order: first line
 contains an integer representing the number of rows/colunms in the sqare matrix, each
 line after that represents the elements of the matrix (can be integers or decimals).
 
