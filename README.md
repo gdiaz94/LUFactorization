@@ -10,8 +10,13 @@ contains an integer representing the number of rows/columns in the sqare matrix,
 line after that represents the elements of the matrix (can be integers or decimals).
 
 Example:
+
 4
+
 3 7 0 5
+
 6 1 1 1
+
 0 2 6 4
+
 1 8 2 1
